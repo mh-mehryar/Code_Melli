@@ -1,0 +1,16 @@
+D:\.Net\Exercise\Exam_1\Melli_Code\bin\Debug\net5.0\Melli_Code.exe
+D:\.Net\Exercise\Exam_1\Melli_Code\bin\Debug\net5.0\Melli_Code.deps.json
+D:\.Net\Exercise\Exam_1\Melli_Code\bin\Debug\net5.0\Melli_Code.runtimeconfig.json
+D:\.Net\Exercise\Exam_1\Melli_Code\bin\Debug\net5.0\Melli_Code.runtimeconfig.dev.json
+D:\.Net\Exercise\Exam_1\Melli_Code\bin\Debug\net5.0\Melli_Code.dll
+D:\.Net\Exercise\Exam_1\Melli_Code\bin\Debug\net5.0\ref\Melli_Code.dll
+D:\.Net\Exercise\Exam_1\Melli_Code\bin\Debug\net5.0\Melli_Code.pdb
+D:\.Net\Exercise\Exam_1\Melli_Code\obj\Debug\net5.0\Melli_Code.csproj.AssemblyReference.cache
+D:\.Net\Exercise\Exam_1\Melli_Code\obj\Debug\net5.0\Melli_Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Exercise\Exam_1\Melli_Code\obj\Debug\net5.0\Melli_Code.AssemblyInfoInputs.cache
+D:\.Net\Exercise\Exam_1\Melli_Code\obj\Debug\net5.0\Melli_Code.AssemblyInfo.cs
+D:\.Net\Exercise\Exam_1\Melli_Code\obj\Debug\net5.0\Melli_Code.csproj.CoreCompileInputs.cache
+D:\.Net\Exercise\Exam_1\Melli_Code\obj\Debug\net5.0\Melli_Code.dll
+D:\.Net\Exercise\Exam_1\Melli_Code\obj\Debug\net5.0\ref\Melli_Code.dll
+D:\.Net\Exercise\Exam_1\Melli_Code\obj\Debug\net5.0\Melli_Code.pdb
+D:\.Net\Exercise\Exam_1\Melli_Code\obj\Debug\net5.0\Melli_Code.genruntimeconfig.cache
